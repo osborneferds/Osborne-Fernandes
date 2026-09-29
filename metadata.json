@@ -1,0 +1,6 @@
+{
+  "name": "Digital Card",
+  "description": "Interactive mobile digital business card inspired by Osborne Fernandes featuring professional portfolio, services, packages, meeting booking, vCard export, and contact management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
